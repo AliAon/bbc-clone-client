@@ -31,7 +31,7 @@ function Home() {
               </Col>
             </Row>
             <Row>
-              <Col sm={6} md={12} lg={6}>
+              <Col sm={6} md={12} lg={6} className="mb-2">
                 <div className={classes["news-item"]}>
                   <img
                     className={classes.img}
